@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    padding: 1rem;
+    background-color: #f0f0f0;
+  }
+  
+  header, nav, main, footer {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background: white;
+    border-radius: 8px;
+  }
+  
+  button {
+    margin-right: 1rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
